@@ -1,0 +1,19 @@
+.main1{
+	width:100%;
+	display:flex;
+	background-color:none;
+	padding:5px;
+}
+.fst1{
+	width:50%;
+	background-color:skyblue;
+	padding-left: 90px;
+	padding-top:120px;
+	padding-bottom: 120px;
+}
+.second1{
+	width:50%;
+	padding-left: 80px;
+	padding-top: 30px:;
+	padding-bottom: 90px;
+}
